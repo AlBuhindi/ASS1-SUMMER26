@@ -107,13 +107,13 @@ _Good luck, Agent_.
 
 - Clone the repository for your computer
 
-- Save the repo in your onwn repo
+- Save the repo in your onw repo
 
 - Install dependencies
 > npm install
 
 - Run the code
-> open in the file public/index.hmtml in the browser
+> open the file public/index.html in the browser
 
 - Run all tests (check if your changes are correct)
 > npm test
@@ -127,13 +127,13 @@ _Good luck, Agent_.
 
 - Ensure you have the work saved in your own repository
 
-- Ensure you have push all the changes to the your repo
+- Ensure you have pushed all the changes to your repo
 
-- Ensure that repo is public
+- Ensure that the repo is public
 
-- In Canvas, save the link to clone your repo (e.g.: https://github.com/GMU-CYSE/ASS1-SUMMER26.git)
+- In Canvas, save the link to clone your repo (e.g., https://github.com/GMU-CYSE/ASS1-SUMMER26.git)
 
-- After you submit, you cannot make any change (GitHub will track it). If you make changes after the submission, you assignment will receive zero.
+- After you submit, you cannot make any changes (GitHub will track them). If you make changes after the submission, your assignment will receive zero.
 
 ---
 
